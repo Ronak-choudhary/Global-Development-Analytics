@@ -72,13 +72,11 @@ Country Development Analysis
 global-development-index/
 
 │
-├── data/
-│   └── Final_Dataset.csv
-│
-├── notebooks/
-│   ├── 01_Data_Preprocessing.ipynb
-│   ├── 02_Normalization.ipynb
-│   └── 03_PCA_Visualization.ipynb
+
+├── 01_Data_Preprocessing.ipynb
+├── 02_Normalization.ipynb
+├── 03_PCA_Visualization.ipynb
+├── Final_Dataset.csv
 │
 ├── README.md
 ├── requirements.txt
