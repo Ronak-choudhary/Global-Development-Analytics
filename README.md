@@ -69,10 +69,9 @@ Country Development Analysis
 ## 📂 Repository Structure
 
 ```text
-global-development-index/
+Global-Development-Analytics/
 
 │
-
 ├── 01_Data_Preprocessing.ipynb
 ├── 02_Normalization.ipynb
 ├── 03_PCA_Visualization.ipynb
